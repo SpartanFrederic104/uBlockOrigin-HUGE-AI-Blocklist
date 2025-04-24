@@ -1173,6 +1173,8 @@ google.com,duckduckgo.com,bing.com##a[href*="girlfriend.ai"]:upward(div):style(o
 ! //// Block lists of individual users
 
 ! Block list of AI "artists"/orgs (twitter)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/forcednature1"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/forcednature1"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/ew_corpse"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/ew_corpse"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/TimChia83"]:upward(div):style(opacity:0.00!important;)
@@ -1281,6 +1283,7 @@ google.com,duckduckgo.com,bing.com##a[href*="x.com/AyakonArts/"]:upward(div):sty
 
 
 ! Block list of AI "artists"/orgs (youtube)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@forcednature"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@SHAD_AI"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@sebastiankamph"]:upward(div):style(opacity:0.00!important;)
@@ -1526,8 +1529,55 @@ google.com,duckduckgo.com,bing.com##a[href*="instagram.com/percipietro/p/DAhljhF
 ! // Fiverr shit
 google.com,duckduckgo.com,bing.com##a[href*="fiverr.com/bleassome"]:upward(div):style(opacity:0.00!important;)
 
+! // Block list of Zenius -I- vanisher simfiles with AI-generated content
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1189"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1497"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1614"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1667"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1692"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1704"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1735"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1763"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/forcednature%27s%20misc."]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/forcednature%27s%20OTOGE%20FUSION"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20StepFest"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20Freestyle%20Showcase%202023"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20Summer%20Contest%202023"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20Summer%20Contest%202024"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20Battle%20Royale%202024"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/simfiles/Z-I-v%20Battle%20Royale%202025%20-%20DropZone"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=41481"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59197"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57126"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=56903"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58142"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58943"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59971"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=56971"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59173"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=48734"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57129"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58932"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=41471"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=62270"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58115"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=62723"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63204"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=65047"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59216"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63202"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63595"]:upward(div):style(opacity:0.00!important;)
+
+! // Sadly, not even official DDR is safe
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=54936"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=55225"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=55770"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=56445"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57113"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57380"]:upward(div):style(opacity:0.00!important;)
 
 ! //// Block list of AI subreddits
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/forcednature"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/StableDiffusion"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/aiArt"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/midjourney"]:upward(div):style(opacity:0.00!important;)

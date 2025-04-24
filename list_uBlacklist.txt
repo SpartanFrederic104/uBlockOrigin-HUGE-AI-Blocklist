@@ -1177,6 +1177,8 @@
 # //// Block lists of individual users
 
 # Block list of AI "artists"/orgs (twitter)
+*://*.x.com/forcednature1/*
+*://*.twitter.com/forcednature1/*
 *://*.x.com/ew_corpse/*
 *://*.twitter.com/ew_corpse/*
 *://*.x.com/TimChia83/*
@@ -1286,6 +1288,7 @@
 
 # Block list of AI "artists"/orgs (youtube)
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
+*://*.youtube.com/@forcednature/*
 *://*.youtube.com/@SHAD_AI/*
 *://*.youtube.com/@sebastiankamph/*
 *://*.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ/*
@@ -1528,6 +1531,7 @@
 
 
 # //// Block list of AI subreddits
+*://*.reddit.com/r/forcednature/*
 *://*.reddit.com/r/StableDiffusion/*
 *://*.reddit.com/r/aiArt/*
 *://*.reddit.com/r/midjourney/*
@@ -1736,6 +1740,45 @@
 /amazon.+\/.+\/dp\/B0CCCMZXQG/
 /amazon.+\/.+\/dp\/B0CMCKC5GM/
 *://*.amazon.com/stores/Aeryn-Zen/author/B0C7NL912Q/*
+
+# // Zenius -I- vanisher
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1189
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1497
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1614
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1667
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1692
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1704
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1735
+*://*.zenius-i-vanisher.com/v5.2/viewsimfilecategory.php?categoryid=1763
+*://*.zenius-i-vanisher.com/simfiles/forcednature%27s%20misc./*
+*://*.zenius-i-vanisher.com/simfiles/forcednature%27s%20OTOGE%20FUSION/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20StepFest/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20Freestyle%20Showcase%202023/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20Summer%20Contest%202023/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20Summer%20Contest%202024/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20Battle%20Royale%202024/*
+*://*.zenius-i-vanisher.com/simfiles/Z-I-v%20Battle%20Royale%202025%20-%20DropZone/*
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=41481
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59197
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57126
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=56903
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58142
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58943
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59971
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=56971
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59173
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=48734
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=57129
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58932
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=41471
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=62270
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=58115
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=62723
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63204
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=65047
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=59216
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63202
+*://*.zenius-i-vanisher.com/v5.2/viewsimfile.php?simfileid=63595
 
 
 # // AI content farms/spam
